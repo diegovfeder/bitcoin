@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "helloExpo2",
-    "slug": "helloExpo2",
+    "name": "bitcoin",
+    "slug": "bitcoin",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
